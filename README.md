@@ -15,9 +15,9 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## EDA
 Analysed disperities among defaulting and non-defaulting populations, checked if there is a sufficient observation count, and searched for collinearity and missing values. Below are a few highlights.
-![alt text](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/confusion_matrices.png)
-![alt text](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/uti_card_distribution.png)
-![alt text](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/vif_table.PNG)
+![Correlation Plot](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/correlation_plot.png)
+![Utilization Distribution](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/uti_card_distribution.png)
+![VIF Table](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/vif_table.PNG)
 
 ## Models Created
 The competition entailed creating a Logistic Regression model and choosing from the following.
@@ -41,4 +41,4 @@ Both models were fairly accurate.
 
 ## Model Choice
 The random forest model was chosen due to stronger performence in classification of true positives and mitigation of type 1 error.
-![alt text](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/roc_curves.png)
+![ROC Curves](https://github.com/orrshalev/UGADataScienceCompetition2021/tree/main/visualizations/roc_curves.png)
